@@ -13,6 +13,7 @@ This part of the guide focuses on setting up your Python environment.
  .. toctree::
     :maxdepth: 1
 
+    starting/installation
     starting/install/osx
     starting/install/win
     starting/install/linux
@@ -32,6 +33,7 @@ This part of the guide focuses on best practices for writing Python code.
    writing/reading
    writing/documentation
    writing/tests
+   writing/logging
    writing/gotchas
    writing/license
 
@@ -59,6 +61,9 @@ different scenarios.
    scenarios/scientific
    scenarios/imaging
    scenarios/xml
+   scenarios/json
+   scenarios/crypto
+   scenarios/clibs
 
 
 Shipping Great Code
@@ -81,6 +86,7 @@ Development Environment
 
    dev/env
    dev/virtualenvs
+   dev/pip-virtualenv
 
 
 
